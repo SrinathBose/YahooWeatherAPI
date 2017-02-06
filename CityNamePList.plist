@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cities</key>
+	<array>
+		<string>Chennai</string>
+		<string>Coimbatore</string>
+		<string>Madurai</string>
+		<string>Trichy</string>
+		<string>Sivakasi</string>
+		<string>Bangalore</string>
+		<string>Mumbai</string>
+		<string>Delhi</string>
+		<string>Calcutta</string>
+		<string>Simla</string>
+		<string>Srinagar</string>
+		<string>Patna</string>
+		<string>Hydrapath</string>
+	</array>
+</dict>
+</plist>
